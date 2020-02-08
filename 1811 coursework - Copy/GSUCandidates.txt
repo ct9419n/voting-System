@@ -1,0 +1,80 @@
+President,Alan,Smith
+President,Jon,Adams
+President,Lizzy,Jones
+President,Zia,Ahmed
+GSU Officer,Daniel,Brown
+GSU Officer,Mark,Green
+GSU Officer,Olivia,Scotsman
+GSU Officer,Bruce,Wayne
+GSU Officer,Kathy,Hopkins
+GSU Officer,Robert,Dean
+GSU Officer,Matilda,Miller
+GSU Officer,Jasmine,Williams
+GSU Officer,Zain,Piksa
+GSU Officer,Rosemary,Hemphill
+GSU Officer,Roman,Polanski
+GSU Officer,Eva,Braun
+Faculty,Alice,Miller
+Faculty,Norma,Baker
+Faculty,Liam,Hemsworth
+Faculty,Elizabeth,Taylor
+Faculty,Mariana,Villas
+Faculty,Sergio,Zapata
+Faculty,Bea,Beauville
+Faculty,Serge,Lautreamont
+Faculty,Tristan,Iseut
+Faculty,Margaret,Duras
+Faculty,Marie,Egyptien
+Faculty,Trevor,Brown
+Faculty,Yoko,Ono
+Faculty,Tom,Bauhaus
+Faculty,Tom,Bilstein
+Faculty,Robert,Edwards
+Officer,Mike,Dyer
+Officer,Suzanne,Fox
+Officer,Sara,Kane
+Officer,Lukas,Kolash
+Officer,Ursula,Davis
+Officer,David,Springfield
+Officer,Homer,Lewis
+Officer,Edith,Piaf
+Officer,George,Morris
+Officer,Roger,Young
+Officer,Albert,Hall
+Officer,Richard,Henderson
+Officer,Charlotte,Cook
+Officer,Oliver,Barnes
+Officer,Rachel,Stewart
+Officer,Olivia,King
+Faculty,Coleman,Kids
+Faculty,Natasha,Morgan
+Faculty,Angelina,Hernandez
+Faculty,Jennifer,Lopez
+Faculty,Angela,Wright
+Faculty,Anna,Guzman
+Faculty,Vanessa,Sanchez
+Faculty,Guido,Vanrossum
+Faculty,Robyn,Perry
+Faculty,Will,Smith
+Faculty,Alice,Cooper
+Faculty,Marilyn,Powell
+Faculty,Ornette,Coleman
+Faculty,Emel,Ahmed
+Faculty,Magdalena,Novak
+Faculty,Kim,Basinger
+Faculty,Maria,Flores
+Faculty,Thomas,Hughes
+Faculty,Nelson,Mandela
+Faculty,Albert,Hoffman
+Faculty,Leonard,Shulgin
+Faculty,Ann,Applebaum
+Faculty,Roger,Jackson
+Faculty,Herman,Gonzalez
+Faculty,Rose,Jenkins
+Faculty,Han,Hill
+Faculty,Joanna,Butler
+Faculty,Josephine,Baker
+Faculty,Nick,Carter
+Faculty,Adriano,Perez
+Faculty,Jane,Martin
+Faculty,Alberto,Torres

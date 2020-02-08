@@ -1,0 +1,175 @@
+President votes:
+1) Alan Smith
+2) Jon Adams
+3) Lizzy Jones
+4) Zia Ahmed
+Officer Votes:
+1) Mike Dyer
+2) Suzanne Fox
+3) Lukas Kolash
+4) Homer Lewis
+Faculty Votes:
+1) Norma Baker
+2) Elizabeth Taylor
+3) Bea Beauville
+4) Tristan Iseut
+
+President votes:
+1) Jon Adams
+2) Lizzy Jones
+3) Zia Ahmed
+4) Alan Smith
+Officer Votes:
+1) Mike Dyer
+2) Suzanne Fox
+3) Lukas Kolash
+4) Homer Lewis
+Faculty Votes:
+1) Norma Baker
+2) Elizabeth Taylor
+3) Bea Beauville
+4) Tristan Iseut
+
+President votes:
+1) Zia Ahmed
+2) Lizzy Jones
+3) Jon Adams
+4) Alan Smith
+Officer Votes:
+1) Mike Dyer
+2) Suzanne Fox
+3) Lukas Kolash
+4) Homer Lewis
+Faculty Votes:
+1) Norma Baker
+2) Elizabeth Taylor
+3) Bea Beauville
+4) Tristan Iseut
+
+President votes:
+1) Jon Adams
+2) Alan Smith
+3) Lizzy Jones
+4) Zia Ahmed
+Officer Votes:
+1) Mike Dyer
+2) Suzanne Fox
+3) Sara Kane
+4) Ursula Davis
+Faculty Votes:
+1) Alice Miller
+2) Liam Hemsworth
+3) Mariana Villas
+4) Sergio Zapata
+
+President votes:
+1) Alan Smith
+2) Jon Adams
+3) Lizzy Jones
+4) Zia Ahmed
+Officer Votes:
+1) Mike Dyer
+2) Suzanne Fox
+3) Sara Kane
+4) Lukas Kolash
+Faculty Votes:
+1) Alice Miller
+2) Norma Baker
+3) Liam Hemsworth
+4) Elizabeth Taylor
+
+President votes:
+1) Lizzy Jones
+2) Alan Smith
+3) Zia Ahmed
+4) Jon Adams
+Officer Votes:
+1) Mike Dyer
+2) Suzanne Fox
+3) Sara Kane
+4) Ursula Davis
+Faculty Votes:
+1) Norma Baker
+2) Liam Hemsworth
+3) Mariana Villas
+4) 
+President votes:
+1) Zia Ahmed
+2) Lizzy Jones
+3) Alan Smith
+4) Jon Adams
+Officer Votes:
+1) Mike Dyer
+2) Suzanne Fox
+3) Lukas Kolash
+4) Ursula Davis
+Faculty Votes:
+1) Alice Miller
+2) Norma Baker
+3) Liam Hemsworth
+4) Mariana Villas
+
+President votes:
+1) Zia Ahmed
+2) Jon Adams
+3) Alan Smith
+4) Lizzy Jones
+Officer Votes:
+1) Mike Dyer
+2) Suzanne Fox
+3) Sara Kane
+4) Lukas Kolash
+Faculty Votes:
+1) Norma Baker
+2) Elizabeth Taylor
+3) Bea Beauville
+4) Serge Lautreamont
+
+President votes:
+1) Alan Smith
+2) Jon Adams
+3) Lizzy Jones
+4) Zia Ahmed
+Officer Votes:
+1) Mike Dyer
+2) Suzanne Fox
+3) Ursula Davis
+4) David Springfield
+Faculty Votes:
+1) Norma Baker
+2) Elizabeth Taylor
+3) Sergio Zapata
+4) Bea Beauville
+
+President votes:
+1) Alan Smith
+2) Jon Adams
+3) Lizzy Jones
+4) Zia Ahmed
+Officer Votes:
+1) Mike Dyer
+2) Suzanne Fox
+3) Lukas Kolash
+4) George Morris
+Faculty Votes:
+1) Alice Miller
+2) Liam Hemsworth
+3) Sergio Zapata
+4) Serge Lautreamont
+
+President votes:
+1) Alan Smith
+2) Jon Adams
+3) Lizzy Jones
+4) Zia Ahmed
+Officer Votes:
+1) Mike Dyer
+2) Suzanne Fox
+3) Lukas Kolash
+4) Homer Lewis
+Faculty Votes:
+1) Alice Miller
+2) Mariana Villas
+3) Bea Beauville
+4) Margaret Duras
+
